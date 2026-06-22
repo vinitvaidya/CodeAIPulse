@@ -1,0 +1,76 @@
+[
+  {
+    "id": "a1b2c3d4-0001-4abc-8def-111111111111",
+    "title": "Set up project repository",
+    "subtasks": [
+      "Create GitHub repository and push initial commit",
+      "Add .gitignore for Python and Node",
+      "Write a basic README with setup instructions",
+      "Configure branch protection rules"
+    ],
+    "completed": true,
+    "completed_at": "2026-06-21T08:30:00.000000",
+    "created_at": "2026-06-21T08:00:00.000000"
+  },
+  {
+    "id": "a1b2c3d4-0002-4abc-8def-222222222222",
+    "title": "Design the database schema",
+    "subtasks": [
+      "List all entities and their attributes",
+      "Draw an ER diagram",
+      "Define relationships and foreign keys",
+      "Review schema with the team",
+      "Document the final schema in the wiki"
+    ],
+    "completed": true,
+    "completed_at": "2026-06-22T04:17:30.198450",
+    "created_at": "2026-06-21T09:00:00.000000"
+  },
+  {
+    "id": "a1b2c3d4-0003-4abc-8def-333333333333",
+    "title": "Write unit tests for the API",
+    "subtasks": [
+      "Set up pytest with test client",
+      "Write tests for GET /tasks endpoint",
+      "Write tests for POST /tasks endpoint",
+      "Write tests for complete and delete endpoints"
+    ],
+    "completed": false,
+    "completed_at": null,
+    "created_at": "2026-06-21T09:30:00.000000"
+  },
+  {
+    "id": "d89fd5d9-255e-4840-b7c7-8e685775cfb1",
+    "title": "Create an awesome Claude code project.",
+    "subtasks": [],
+    "completed": true,
+    "completed_at": "2026-06-21T10:39:04.528847",
+    "created_at": "2026-06-21T07:07:20.242257"
+  },
+  {
+    "id": "73745718-e5d6-4ba8-9ddf-4964310a1c71",
+    "title": "Create an awesome ai project.",
+    "subtasks": [
+      "Define an impactful problem, target audience, and measurable success criteria for the AI project.",
+      "Acquire, pre-process, and analyze relevant datasets; design the AI model architecture.",
+      "Implement, train, and rigorously test the AI model, iterating on code and parameters.",
+      "Evaluate final performance, refine for optimal impact, and prepare for compelling presentation or deployment."
+    ],
+    "completed": false,
+    "completed_at": null,
+    "created_at": "2026-06-21T07:11:45.275838"
+  },
+  {
+    "id": "4b2eec75-d823-4a1f-9211-997f9fd43c42",
+    "title": "Create a small DBMS project.",
+    "subtasks": [
+      "Define core features and data model (e.g., SQL subset, key-value, data types).",
+      "Design and implement the storage engine for persistence and memory management.",
+      "Develop query processing and indexing mechanisms.",
+      "Create a command-line interface or API for user interaction."
+    ],
+    "completed": false,
+    "completed_at": null,
+    "created_at": "2026-06-21T11:14:29.665740"
+  }
+]

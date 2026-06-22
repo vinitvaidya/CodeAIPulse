@@ -1,0 +1,27 @@
+{
+  "2026-06-19": {
+    "date": "2026-06-19",
+    "quote": "The secret of getting ahead is getting started.",
+    "focus_tip": "Tackle your hardest task first thing in the morning while your energy is highest.",
+    "message": "You have everything you need to make today count. Start small, stay consistent, and trust the process \u00e2\u20ac\u201d progress compounds."
+  },
+  "2026-06-20": {
+    "date": "2026-06-20",
+    "quote": "Done is better than perfect.",
+    "focus_tip": "Block out 90-minute deep work sessions with your phone on silent to maximise focus.",
+    "message": "Yesterday's wins are fuel for today. Keep the momentum going \u00e2\u20ac\u201d one focused step at a time leads to remarkable results."
+  },
+  "2026-06-21": {
+    "date": "2026-06-21",
+    "quote": "Small daily improvements lead to stunning results over time.",
+    "focus_tip": "Write down your top three priorities before opening any apps or messages today.",
+    "message": "Today is a fresh opportunity to build something meaningful. Stay curious, stay kind to yourself, and make it a great one."
+  },
+  "2026-06-22": {
+    "quote": "The morning is a blank canvas. Paint it with purpose.",
+    "focus_tip": "Start your day by writing down your top 3 priorities. Focus on completing the first one before moving to anything else.",
+    "message": "Good morning! Embrace the fresh start and the power within you. Every small step forward today builds momentum for a more productive, fulfilling week. You've got this!",
+    "date": "2026-06-22",
+    "web_tip": "# Stop Chasing Lines of Code: The 2026 Developer Productivity Playbook. ## The Productivity Trap in 2026. If you are part of the PorkiCoder community, you already understand the value of frictionless workflows. We handle the tooling, but the way you structure your daily workflow is what truly unlocks your potential. One of the most persistent myths in software engineering is that productivity can be boiled down to a single metric. To get a realistic picture of how you and your team are performing, you need a multidimensional approach. The definitive guide on this is the ACM Queue paper on the SPACE framework, which emphasizes that productivity is far more than just activity. For example, a developer might have high activity by pushing lots of commits, but if their communication is poor and they block teammates, overall team efficiency plummets. Furthermore, insights on how companies are boosting productivity with generative AI indicate that the true value lies in keeping developers in a state of flow."
+  }
+}
